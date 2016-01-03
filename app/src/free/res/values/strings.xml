@@ -1,0 +1,5 @@
+<resources>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="device_unit_id">02953926B6B15CC94BD71B7A766006D1</string>
+</resources>
